@@ -36,9 +36,9 @@ With the above shortcodes you'll be able to:
 
 1. Create an Affiliate Area (without tabs) and stack them in any order on one page.
 2. Put each shortcode on a separate page, essentially creating your own page structure.
-3. Have more control over which areas the affiliates see, without having to modify the [template files](http://docs.affiliatewp.com/article/118-modifying-template-files "Modifying template files")
+3. Have more control over which areas the affiliates see, without having to modify the [template files](http://docs.affiliatewp.com/article/118-modifying-template-files "Modifying template files").
 
-Just remember to set your Affiliate Area Page in the settings to be your [login page](http://docs.affiliatewp.com/article/98-affiliatelogin "Affiliate Login Shortcode") or your affiliates will have no where to login from.
+Just remember to set your Affiliate Area page in Affiliates &rarr; Settings to be your [login page](http://docs.affiliatewp.com/article/98-affiliatelogin "Affiliate Login Shortcode") or your affiliates will have no where to login from via emails etc.
 
 **What is AffiliateWP?**
 
